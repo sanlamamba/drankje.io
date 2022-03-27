@@ -1,0 +1,41 @@
+.card__caroussel {
+  position: relative;
+  overflow: hidden;
+  border-radius: 15px;
+}
+.card__caroussel_text {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  transform: scale(0.95);
+}
+
+.like-btn {
+  height: 30px;
+  width: 30px;
+}
+.text_content {
+  font-size: 0.75em;
+}
+.profile__cards {
+  transform: scale(0.95);
+  height: 175px;
+}
+.input__container input {
+  border: none;
+  border-bottom: 2px solid black;
+  width: 75%;
+  padding: 5px;
+}
+.main {
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+}
+.fill_page {
+  height: 100%;
+}
+
+.bg_container {
+  transform: scale(1.5) rotate(-15deg) translateY(-10%);
+}
