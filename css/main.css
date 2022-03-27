@@ -42,3 +42,6 @@
 .bg_container {
   transform: scale(1.5) rotate(-15deg) translateY(-10%);
 }
+.bi-heart-fill {
+  font-size: 14px;
+}
