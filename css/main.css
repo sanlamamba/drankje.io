@@ -3,6 +3,9 @@
   overflow: hidden;
   border-radius: 15px;
 }
+.slider {
+  transition: 0.25s ease-in-out;
+}
 .card__caroussel_text {
   position: absolute;
   bottom: 0;
